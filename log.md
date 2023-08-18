@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1evUJjvnkKcZV-u5y1bYtdzQY8S-JQT2B6B63abRL
 
 **Gedanken:** -
 
-**Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
+
 
 ### Tag 1: 18. August 2023
 ##### (lösche mich oder kommentiere mich aus)
