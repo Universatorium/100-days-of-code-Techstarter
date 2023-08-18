@@ -5,7 +5,6 @@ https://docs.google.com/spreadsheets/d/1evUJjvnkKcZV-u5y1bYtdzQY8S-JQT2B6B63abRL
 # 100 Days Of Code - Logbuch
 
 ### Tag 0: 17. August 2023 (Beispiel 1)
-##### (lösche oder kommentiere mich aus)
 
 **Heutiger Fortschritt**: Python Code wieder ins Gedächtnis gerufen und ein kleines Übungsprogramm geschrieben
 
