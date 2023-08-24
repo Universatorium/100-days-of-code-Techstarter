@@ -31,3 +31,17 @@ https://docs.google.com/spreadsheets/d/1evUJjvnkKcZV-u5y1bYtdzQY8S-JQT2B6B63abRL
 **Heutiger Fortschritt**: immer noch bei Tag 8 LPIC-1.
 
 
+### Tag 6: 23. August 2023
+
+**Heutiger Fortschritt**: Aufgrund des Umfangs der Hausaufgaben habe ich bis 23 Uhr daran gesessen und nichts weiter geschafft.
+
+
+### Tag 7: 24. August 2023
+
+**Heutiger Fortschritt**: immer noch bei Tag 8 LPIC-1.
+
+
+### Tag 8: 25. August 2023
+
+**Heutiger Fortschritt**: immer noch bei Tag 8 LPIC-1.
+
