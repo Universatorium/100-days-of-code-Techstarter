@@ -49,3 +49,8 @@ https://docs.google.com/spreadsheets/d/1evUJjvnkKcZV-u5y1bYtdzQY8S-JQT2B6B63abRL
 ### Tag 9: 26. August 2023
 
 **Heutiger Fortschritt**: Battle.net, Steam und Ledger-Live neu installiert.
+
+
+### Tag 10: 27. August 2023
+
+**Heutiger Fortschritt**: Tag 8 LPIC-1 endlich durch.
