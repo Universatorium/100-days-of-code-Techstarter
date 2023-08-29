@@ -54,3 +54,13 @@ https://docs.google.com/spreadsheets/d/1evUJjvnkKcZV-u5y1bYtdzQY8S-JQT2B6B63abRL
 ### Tag 10: 27. August 2023
 
 **Heutiger Fortschritt**: Tag 8 LPIC-1 endlich durch.
+
+
+### Tag 11: 28. August 2023
+
+**Heutiger Fortschritt**: Kein Fortschritt wegen der Hausaufgaben.
+
+
+### Tag 12: 29. August 2023
+
+**Heutiger Fortschritt**: Kein Fortschritt wegen der Hausaufgaben.
