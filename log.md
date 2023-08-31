@@ -64,3 +64,8 @@ https://docs.google.com/spreadsheets/d/1evUJjvnkKcZV-u5y1bYtdzQY8S-JQT2B6B63abRL
 ### Tag 12: 29. August 2023
 
 **Heutiger Fortschritt**: Kein Fortschritt wegen der Hausaufgaben.
+
+
+### Tag 13: 30. August 2023
+
+**Heutiger Fortschritt**: Kein Fortschritt wegen der Hausaufgaben.
