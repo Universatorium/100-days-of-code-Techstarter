@@ -69,3 +69,13 @@ https://docs.google.com/spreadsheets/d/1evUJjvnkKcZV-u5y1bYtdzQY8S-JQT2B6B63abRL
 ### Tag 13: 30. August 2023
 
 **Heutiger Fortschritt**: Kein Fortschritt wegen der Hausaufgaben.
+
+
+### Tag 14: 31. August 2023
+
+**Heutiger Fortschritt**: Kein Fortschritt wegen der Projektarbeit.
+
+
+### Tag 15: 1. September 2023
+
+**Heutiger Fortschritt**: Kein Fortschritt wegen der Projektarbeit.
