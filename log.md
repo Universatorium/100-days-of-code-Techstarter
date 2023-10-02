@@ -79,3 +79,13 @@ https://docs.google.com/spreadsheets/d/1evUJjvnkKcZV-u5y1bYtdzQY8S-JQT2B6B63abRL
 ### Tag 15: 1. September 2023
 
 **Heutiger Fortschritt**: Kein Fortschritt wegen der Projektarbeit.
+
+
+### Tag 16: 2. September 2023 bis Tag 45: 1.Oktober 2023
+
+**Heutiger Fortschritt**: Kein Fortschritt wegen zu vieler Hausaufgaben und anderer Projekte
+
+
+### Tag 46: 2.Oktober 2023
+
+++Heutiger Fortschritt++: Tag 9 LPIC-1 geschafft.
