@@ -99,3 +99,8 @@ https://docs.google.com/spreadsheets/d/1evUJjvnkKcZV-u5y1bYtdzQY8S-JQT2B6B63abRL
 ### Tag 52: 8.Oktober 2023
 
 **Heutiger Fortschritt**: Tag 10 LPIC-1 geschafft.
+
+
+### Tag 59: 15.Oktober 2023
+
+**Heutiger Fortschritt**: Tag 11 LPIC-1 geschafft.
