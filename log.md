@@ -108,7 +108,7 @@ https://docs.google.com/spreadsheets/d/1evUJjvnkKcZV-u5y1bYtdzQY8S-JQT2B6B63abRL
 
 ### Tag 66: 22.Oktober 2023
 
-**Heutiger Fortschritt**: Tag 12 LPIC-1 geschafft.
+**Heutiger Fortschritt**: Tag 12 LPIC-1 geschafft und Tag 13 begonnen-
 
 
 
